@@ -78,7 +78,6 @@ h1 {
 section {
     height: 100vh;
     border: 20px;
-    grid-template-columns: ;
 }
 
 .container {
@@ -94,18 +93,9 @@ section {
     left: 40%;
 }
 
-.a {}
-
-.b {}
-
 .C {
     height: 50px;
-    p
 }
-
-.x {}
-
-.t {}
 
 .k {
     width: 180px;
@@ -132,7 +122,6 @@ section {
     width: auto;
     display: grid;
     grid-template-columns: repeat(4, 220px);
-    grid-template-rows: ;
     grid-gap: 50px;
     padding: auto;
     border-radius: 100px;
@@ -153,5 +142,4 @@ section {
 
 .button {
     color: black;
-    b
 }
