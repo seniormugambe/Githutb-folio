@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../Img"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "time L"
+    }
+}
